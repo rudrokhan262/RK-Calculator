@@ -10,7 +10,7 @@ A professional, feature-rich, and lightning-fast **Advanced Scientific & Mathema
 
 Get the latest stable release of RK Calculator for Android:
 
-👉 **[Download RK Calculator v1.0.0 (Release APK)](https://github.com/YOUR_GITHUB_USERNAME/RK-Calculator/releases/latest/download/app-release.apk)**
+👉 **[Download RK Calculator v1.0.0 (Release APK)](https://github.com/rudrokhan262/RK---Calculator/releases/latest/download/app-release.apk)**
 
 ---
 
@@ -26,7 +26,7 @@ Get the latest stable release of RK Calculator for Android:
 - **Statistical Calculator (STAT)**: Dataset analysis computing Count ($n$), Sum ($\Sigma x$), Sum of Squares ($\Sigma x^2$), Mean, Median, Mode, Variance, Standard Deviation, Min, and Max.
 - **Complex Number Calculator**: Real and imaginary components (`i`), complex arithmetic, conjugate, modulus, and argument.
 - **Calculus Functions**: Numerical integration (Simpson's rule), numerical differentiation, summation ($\Sigma$), and limits ($\lim$).
-- **Fraction Calculator**: Rational fraction input, decimal conversions, simplification, and exact arithmetic.
+- **Fraction Calculator**: Fraction input, decimal conversions, simplification, and exact arithmetic.
 - **Unit Converter (CONV)**: Built-in scientific conversions for Length, Mass, Volume, and Speed.
 
 ### 3. 🎨 Modern UI/UX
@@ -50,8 +50,8 @@ To run or build the project from source:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/RK-Calculator.git
-   cd RK-Calculator
+   git clone https://github.com/rudrokhan262/RK---Calculator.git
+   cd RK---Calculator
    ```
 2. Install dependencies:
    ```bash
