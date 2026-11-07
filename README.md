@@ -10,7 +10,7 @@ A professional, feature-rich, and lightning-fast **Advanced Scientific & Mathema
 
 Get the latest stable release of RK Calculator for Android:
 
-👉 **[Download RK Calculator v1.0.0 (Release APK)](https://github.com/rudrokhan262/RK---Calculator/releases/latest/download/app-release.apk)**
+👉 **[Download RK Calculator v1.0.0 (Release APK)](https://github.com/rudrokhan262/RK-Calculator/releases/latest/download/app-release.apk)**
 
 ---
 
@@ -50,8 +50,8 @@ To run or build the project from source:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rudrokhan262/RK---Calculator.git
-   cd RK---Calculator
+   git clone https://github.com/rudrokhan262/RK-Calculator.git
+   cd RK-Calculator
    ```
 2. Install dependencies:
    ```bash
